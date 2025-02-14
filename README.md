@@ -5,7 +5,9 @@ Hi! I'm **Alek**, a Research Scientist at UMD (go terps!) specializing in **pola
 **Research Interests**  
 - ❄️ Polar and global climate variability, especially sea ice (e.g. Arctic sea ice decline).
 - 📊 Climate model projections (CMIP6/CESM)
-- 🛰️ Remote sensing (imagery and lidar) & data assimilation (OSSEs)  
+- 🛰️ Remote sensing (imagery and lidar) & data assimilation (OSSEs)
+
+Check out this Jupyter Book for on-going updates to [Arctic sea ice thickness with ICESat-2](https://www.icesat-2-sea-ice-state.info). 
 
 **Skills**  
 - 🛠 Python, GIS & Remote Sensing, Machine Learning and AI tools, cloud-native data and analysis . 
